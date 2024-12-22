@@ -1,4 +1,4 @@
 # demo
 this is my first Git repository
 <br>
-author-biswajit sahu
+author-biswajit (my name)
